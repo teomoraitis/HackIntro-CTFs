@@ -7,8 +7,7 @@ Completed for the **"Computer Systems Protection and Security"** course, in the 
 
 ## 📂 Homeworks
 
-- **[Homework 0](./Homework0/)** – *Control flow hijack with shellcode injection*  
-  *(Includes second part: Running our first DevSecOps pipeline — [devsecops-pipeline](https://github.com/sdi2000150/devsecops-pipeline))*
+- **[Homework 0](./Homework0/)** – *Control flow hijack with shellcode injection*  *(+ Running our first DevSecOps pipeline - [devsecops-pipeline](https://github.com/sdi2000150/devsecops-pipeline))*
 
 - **[Bonus 0](./Bonus0/)** – *Careless Printing: Format string attack*
 
