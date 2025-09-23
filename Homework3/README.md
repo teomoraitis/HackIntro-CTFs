@@ -39,7 +39,7 @@ To successfully complete this homework assignment, you will need to:
 
 1. Register for the competition with a team.
 2. Participate in the competition along with your team.
-3. Create and commit a file `writeup.md` in this repository describing how the event went for you and team. The write up should include at a minimum:
+3. Create and commit a file [writeup.md](./writeup.md) in this repository describing how the event went for you and team. The write up should include at a minimum:
    1. Which services you managed to exploit and how you accomplished that. If you exploited zero services, provide a write up of the ones you looked at.
    2. Which services you managed to patch and how you accomplished that. If you patched zero services, provide a write up of the analysis you did.
    3. What attacks were you able to recognize that other teams threw against you.
