@@ -17,7 +17,7 @@ Number of contributors: **6**
 
 - **sdi2200284** - [Αλέξανδρος Γκιάφης (AlexTuring010)](https://github.com/AlexTuring010)
 - **sdi2000057** - [Ορφέας Ηλιάδης (DrCeem)](https://github.com/DrCeem)
-- **sdi2000150** - [Θεόδωρος Μωραΐτης (sdi2000150)](https://github.com/moraitisteo)
+- **sdi2000150** - [Θεόδωρος Μωραΐτης (sdi2000150)](https://github.com/teomoraitis)
 - **sdi1800166** - [Κωνσταντίνος Ρούσσος (sdi1800166)](https://github.com/sdi1800166)
 - **sdi1800122** - [Εμίλ Μπαντάκ (EmilBa122)](https://github.com/EmilBa122)
 - **sdi1700254** - [Πιέρρο Ζαχαρέας (plerros)](https://github.com/plerros)
