@@ -3,7 +3,7 @@ Full name: **Theodoros Moraitis** (Θεόδωρος Μωραΐτης) <br>
 StudentID: **sdi2000150** (1115202000150)
 
 *For the second part of Homework #0 ("Running our first devsecops pipeline") check the `successful_run.txt` file or visit the public repository directly:
-https://github.com/sdi2000150/devsecops-pipeline*
+https://github.com/moraitisteo/devsecops-pipeline*
 ## Our first exploit: Control flow hijack with shellcode injection
 
 This readme details how the buffer overflow exploit was crafted and executed against the vulnerable `compress42.c` program (`ncompress` executable). The objective was to overflow the buffer in the `comprexx()` function and hijack the control flow to execute our shellcode, which spawns a root shell.
